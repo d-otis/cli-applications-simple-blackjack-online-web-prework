@@ -60,8 +60,6 @@ end
 #####################################################
 
 def runner
-  # code runner here
-  # keep track of changing total
   welcome
   total = initial_round
   until total > 21 do
