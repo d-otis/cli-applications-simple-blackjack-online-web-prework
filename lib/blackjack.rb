@@ -64,6 +64,7 @@ def runner
     total += hit?(total)
   end
   end_game(total)
+  binding.pry
 end
     
 # binding.pry
