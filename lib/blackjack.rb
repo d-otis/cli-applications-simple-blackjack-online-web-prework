@@ -48,6 +48,7 @@ def hit?(total)
   else
     invalid_command
     prompt_user
+    hit?(total)
   end
 end
 
