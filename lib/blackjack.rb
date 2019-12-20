@@ -62,5 +62,8 @@ end
 def runner
   # code runner here
   # keep track of changing total
+  welcome
+  initial_round
+  display_card_total
 end
     
