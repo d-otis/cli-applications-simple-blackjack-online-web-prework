@@ -61,5 +61,6 @@ end
 
 def runner
   # code runner here
+  # keep track of changing total
 end
     
