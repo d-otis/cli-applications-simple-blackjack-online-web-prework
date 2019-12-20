@@ -63,7 +63,6 @@ def runner
   # code runner here
   # keep track of changing total
   welcome
-  initial_round
-  current_total = display_card_total
+  total = initial_round
 end
     
