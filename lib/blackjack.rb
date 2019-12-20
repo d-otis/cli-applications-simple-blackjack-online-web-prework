@@ -64,6 +64,6 @@ def runner
   # keep track of changing total
   welcome
   total = initial_round
-  hit?(total)
+  total += hit?(total)
 end
     
